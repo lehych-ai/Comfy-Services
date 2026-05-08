@@ -131,6 +131,7 @@ PRESET_FILES = {
         ("https://huggingface.co/lehychh/Z-image-Turbo/resolve/main/qwen.safetensors", "text_encoders", None),
         ("https://huggingface.co/lehychh/Z-image-Turbo/resolve/main/2x_PureVision.pth", "upscale_models", None),
         ("https://huggingface.co/lehychh/Z-image-Turbo/resolve/main/face_yolov9c.pt", "ultralytics/bbox", None),
+        ("https://huggingface.co/lehychh/Z-image-Turbo/resolve/main/Eyes.pt", "ultralytics/bbox", None),
         ("https://huggingface.co/lehychh/Z-image-Turbo/resolve/main/person_yolov8m-seg.pt", "ultralytics/segm", None),
         ("https://huggingface.co/lehychh/Z-image-Turbo/resolve/main/Z-Image-Turbo-Fun-Controlnet-Union-2.1-2602-8steps.safetensors", "model_patches", None),
     ],
