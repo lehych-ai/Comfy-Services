@@ -156,6 +156,7 @@ PRESET_FILES = {
         ("https://huggingface.co/lehychh/Flux-swap-i2i/resolve/main/diffusion_models/flux4b.safetensors", "diffusion_models", None),
         ("https://huggingface.co/lehychh/Flux-swap-i2i/resolve/main/text_encoders/qwen.safetensors", "text_encoders", None),
         ("https://huggingface.co/lehychh/Flux-swap-i2i/resolve/main/vae/flux2-vae.safetensors", "vae", None),
+        ("https://huggingface.co/numz/SeedVR2_comfyUI/resolve/main/seedvr2_ema_7b_sharp_fp16.safetensors", "SEEDVR2", None),
     ],
   "SEEDREAM_EDIT": [
         ("https://huggingface.co/lehychh/Z-image-Turbo/resolve/main/z-image-turbo.safetensors", "diffusion_models", None),
