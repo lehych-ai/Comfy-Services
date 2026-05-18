@@ -166,7 +166,7 @@ PRESET_FILES = {
         ("https://huggingface.co/lehychh/Z-image-Turbo/resolve/main/face_yolov9c.pt", "ultralytics/bbox", None),
     ],
    "LTX_ANIMATE_I2V": [
-        ("https://huggingface.co/Kijai/LTX2.3_comfy/resolve/main/diffusion_models/ltx-2.3-22b-distilled-1.1_transformer_only_fp8_scaled.safetensors", "diffusion_models", None),
+        ("https://huggingface.co/Kijai/LTX2.3_comfy/resolve/main/diffusion_models/ltx-2.3-22b-distilled-1.1_transformer_only_fp8_scaled.safetensors", "checkpoints", None),
         ("https://huggingface.co/lehychh/LTX2.3-Animate/resolve/main/LTX23_video_vae_bf16.safetensors", "vae", None),
         ("https://huggingface.co/lehychh/LTX2.3-Animate/resolve/main/LTX23_audio_vae_bf16.safetensors", "vae", None),
         ("https://huggingface.co/Comfy-Org/ltx-2/resolve/main/split_files/text_encoders/gemma_3_12B_it_fp8_scaled.safetensors", "text_encoders", None),
