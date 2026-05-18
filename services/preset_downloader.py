@@ -169,7 +169,6 @@ PRESET_FILES = {
         ("https://huggingface.co/Kijai/LTX2.3_comfy/resolve/main/diffusion_models/ltx-2.3-22b-distilled-1.1_transformer_only_fp8_scaled.safetensors", "diffusion_models", None),
         ("https://huggingface.co/lehychh/LTX2.3-Animate/resolve/main/LTX23_video_vae_bf16.safetensors", "vae", None),
         ("https://huggingface.co/lehychh/LTX2.3-Animate/resolve/main/LTX23_audio_vae_bf16.safetensors", "vae", None),
-        ("https://huggingface.co/Kijai/LTX2.3_comfy/resolve/main/vae/taeltx2_3.safetensors", "vae", None),
         ("https://huggingface.co/Comfy-Org/ltx-2/resolve/main/split_files/text_encoders/gemma_3_12B_it_fp8_scaled.safetensors", "text_encoders", None),
         ("https://huggingface.co/Kijai/LTX2.3_comfy/resolve/main/text_encoders/ltx-2.3_text_projection_bf16.safetensors", "text_encoders", None),
         ("https://huggingface.co/lehychh/LTX2.3-Animate/resolve/main/LTX23-GalaxyAce.safetensors", "loras", None),
