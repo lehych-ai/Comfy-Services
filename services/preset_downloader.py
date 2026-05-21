@@ -96,7 +96,6 @@ PRESET_FILES = {
         ("https://huggingface.co/lehychh/Wan-animate-v2v/resolve/main/loras/BounceHighWan2_2.safetensors", "loras", None),
         ("https://huggingface.co/lehychh/Wan-animate-v2v/resolve/main/upscale_models/005_colorDN_DFWB_s128w8_SwinIR-M_noise15.pth", "upscale_models", None),
         ("https://huggingface.co/lehychh/Wan-animate-v2v/resolve/main/upscale_models/low.pt", "upscale_models", None),
-        ("https://huggingface.co/lehychh/Wan-animate-v2v/resolve/main/detection/vitpose_h_wholebody_data.bin", "detection", None),
         ("https://huggingface.co/lehychh/Wan-animate-v2v/resolve/main/detection/vitpose_h_wholebody_model.onnx", "detection", None),
         ("https://huggingface.co/lehychh/Wan-animate-v2v/resolve/main/detection/yolov10m.onnx", "detection", None),
         ("https://huggingface.co/lehychh/Wan-animate-v2v/resolve/main/controlnet/Wan21_Uni3C_controlnet_fp16.safetensors", "controlnet", None),
@@ -300,6 +299,7 @@ INDEX_HTML = """<!DOCTYPE html>
             <option value="loras">loras</option>
             <option value="vae">vae</option>
             <option value="text_encoders">text_encoders</option>
+            <option value="detection">detection</option>
             <option value="checkpoints">checkpoints</option>
             <option value="clip_vision">clip_vision</option>
             <option value="upscale_models">upscale_models</option>
