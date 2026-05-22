@@ -97,6 +97,7 @@ PRESET_FILES = {
         ("https://huggingface.co/lehychh/Wan-animate-v2v/resolve/main/upscale_models/005_colorDN_DFWB_s128w8_SwinIR-M_noise15.pth", "upscale_models", None),
         ("https://huggingface.co/lehychh/Wan-animate-v2v/resolve/main/upscale_models/low.pt", "upscale_models", None),
         ("https://huggingface.co/lehychh/Wan-animate-v2v/resolve/main/detection/vitpose_h_wholebody_model.onnx", "detection", None),
+        ("https://huggingface.co/lehychh/Wan-animate-v2v/resolve/main/detection/vitpose_h_wholebody_data.bin", "detection", None),
         ("https://huggingface.co/lehychh/Wan-animate-v2v/resolve/main/detection/yolov10m.onnx", "detection", None),
         ("https://huggingface.co/lehychh/Wan-animate-v2v/resolve/main/controlnet/Wan21_Uni3C_controlnet_fp16.safetensors", "controlnet", None),
         ("https://huggingface.co/lehychh/Wan-animate-v2v/resolve/main/clip_vision/clip_vision_h.safetensors", "clip_vision", None),
