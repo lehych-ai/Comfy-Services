@@ -102,7 +102,6 @@ PRESET_FILES = {
     ],
     "WAN_ANIMATE_I2V_NSFW": [
         ("https://huggingface.co/lehychh/Wan-animate-I2V-18/resolve/main/diffusion_models/Wan2.2_Remix_NSFW_i2v_14b_high_lighting_fp16_v2.1.safetensors", "diffusion_models", None),
-        ("https://huggingface.co/lehychh/Wan-animate-I2V-18/resolve/main/diffusion_models/Wan2.2_Remix_NSFW_i2v_14b_low_lighting_fp16_v2.1.safetensors", "diffusion_models", None),
         ("https://huggingface.co/lehychh/Wan-animate-I2V-18/resolve/main/vae/wan_2.1_vae.safetensors", "vae", None),
         ("https://huggingface.co/lehychh/Wan-animate-I2V-18/resolve/main/text_encoders/nsfw_wan_umt5-xxl_fp8_scaled.safetensors", "text_encoders", None),
         ("https://huggingface.co/lehychh/Wan-animate-I2V-18/resolve/main/loras/SVI_v2_PRO_Wan2.2-I2V-A14B_HIGH_lora_rank_128_fp16.safetensors", "loras", None),
